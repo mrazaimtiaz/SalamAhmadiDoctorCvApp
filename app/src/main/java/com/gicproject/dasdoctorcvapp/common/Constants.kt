@@ -4,7 +4,7 @@ class Constants {
     companion object {
       // const val BASE_URL = "http://gickuwait-dev.com/screensapi/"
 
-      const val BASE_URL = "http://172.25.26.162/ScreensAPI/"  //darulshifa
+      const val BASE_URL = "http://172.25.25.162/ScreensAPI/"  //darulshifa
         const val STATE_MSG_EN = "state msg en"
         const val STATE_MSG_AR = "state msg ar"
         const val STATE_ANSWER = "answer"
